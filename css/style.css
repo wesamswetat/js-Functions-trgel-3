@@ -1,0 +1,12 @@
+body{
+    direction: rtl;
+    margin: 30px 30px;
+}
+
+input {
+    padding: 5px;
+}
+
+div{
+    margin: 50px 20px;
+}
